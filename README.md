@@ -605,13 +605,13 @@
 	<td align="center">
 		<a href="https://github.com/h-beeen"><img src="https://avatars.githubusercontent.com/u/53262430?v=4" style="vertical-align:top" alt=""/>
 		<td width=25% align=center>
-			신현호(19) / FE</br>42Seoul Cadet</br></br><img src="https://camo.githubusercontent.com/4f67b5a074e526c695bc03c6fecfe57763857f0c988e35e94629f4d7d15573df/687474703a2f2f6d617a617373756d6e6964612e7774662f6170692f76322f67656e65726174655f62616467653f626f6a3d616c776179736177616b6530303833"/>
+			신현호(19) / FE</br>42Seoul Cadet</br></br>
 		</td>
 		<td align="center">
-			<a href="https://github.com/h-beeen"><img src="https://avatars.githubusercontent.com/u/53262430?v=4" style="vertical-align:top" alt=""/>
+			<a href="https://github.com/euna0104"><img src="https://avatars.githubusercontent.com/u/93309561?v=4" style="vertical-align:top" alt=""/>
 		</td>
 		<td width=25% align=center>
-			신현호(19) / FE</br>42Seoul Cadet</br></br><img src="https://camo.githubusercontent.com/4f67b5a074e526c695bc03c6fecfe57763857f0c988e35e94629f4d7d15573df/687474703a2f2f6d617a617373756d6e6964612e7774662f6170692f76322f67656e65726174655f62616467653f626f6a3d616c776179736177616b6530303833"/>
+			고은아(20) / BE</br>Backend Developer</br></br>
 		</td>
 	</tr>
 	<tr>
