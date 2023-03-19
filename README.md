@@ -1,4 +1,5 @@
-# 2023 InQ JavaScript 기초 스터디
+![JS Banner](https://user-images.githubusercontent.com/58041212/226146342-4dd195a0-a09b-4b80-b75a-661811ed31fb.jpg)
+
 
 <br>
 
