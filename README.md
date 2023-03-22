@@ -675,7 +675,7 @@
 			<a href="https://github.com/euna0104"><img src="https://avatars.githubusercontent.com/u/93309561?v=4" style="vertical-align:top" alt=""/>
 		</td>
 		<td width=25% align=center>
-			고은아(20) / BE</br>Backend Developer</br></br>
+			고은아(20) / BE</br>Node.js Developer</br></br>
 		</td>
 	</tr>
 	<tr>
