@@ -1,6 +1,5 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/58041212/226146342-4dd195a0-a09b-4b80-b75a-661811ed31fb.jpg"></p>
 
-
 <br>
 
 ## ✨ 제출 방법
@@ -41,11 +40,19 @@
 
 ## 👽️ 사용 강의
 
+- 생활코딩 - 자바스크립트(JavaScript) 기본
+
+  - https://www.inflearn.com/course/%EC%A7%80%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%96%B8%EC%96%B4-%EA%B8%B0%EB%B3%B8#curriculum
+
+- 해당 강의를 사용하여 수업을 진행 할 예정이니, 정해진 주차에 대해서 학습해주시길 바랍니다!
+
+<br/>
+
+## ⭐️ 참고하면 좋은 자료
+
 - 벨로퍼트와 함께하는 모던 자바스크립트
 
   - https://learnjs.vlpt.us/
-
-- 해당 강의를 사용하여 수업을 진행 할 예정이니, 정해진 주차에 대해서 학습해주시길 바랍니다!
 
 <br/>
 
@@ -66,8 +73,8 @@
 		 3/27 ~ 4/1
 	</td>
 	<td colspan="9" align="center">
-		 [1장]<br>
-		 01. Hello JavaScript! - 02. 변수 <br>
+		 [섹션 1] Javascript 기본<br>
+		 [섹션 2] 숫자와 문자
 	</td>
 </tr>
 <tr>
@@ -109,8 +116,8 @@
 </tr>
 <tr>
 	<td colspan="9" align="center">
-		 [1장]<br>
-		 03. 연산자 - 04. 조건문<br>
+		 [섹션 3] 변수<br>
+		 [섹션 4] 비교
 	</td>
 </tr>
 <tr>
@@ -121,7 +128,7 @@
 		추후 공지 예정
 	</td>
 	<td colspan=4 align="center">
-		C
+		JS
 	</td>
 </tr>
 <tr>
@@ -161,8 +168,8 @@
 		 4/3 ~ 4/9
 	</td>
 	<td colspan="9" align="center">
-		 [1장]<br>
-		 05. 함수 - 06. 객체
+		 [섹션 5] 조건문<br>
+		 [섹션 6] 반복문
 	</td>
 </tr>
 <tr>
@@ -173,7 +180,7 @@
 		추후 공지 예정
 	</td>
 	<td colspan=4 align="center">
-		C
+		JS
 	</td>
 </tr>
 <tr>
@@ -225,8 +232,8 @@
 		 4/24 ~ 4/30
 	</td>
 	<td colspan="9" align="center">
-		 [1장]<br>
-		 07. 배열 - 08. 반복문
+		 [섹션 7] 함수<br>
+		 [섹션 8] 배열
 	</td>
 </tr>
 <tr>
@@ -237,7 +244,7 @@
 		추후 공지 예정
 	</td>
 	<td colspan=4 align="center">
-		C
+		JS
 	</td>
 </tr>
 <tr>
@@ -277,8 +284,8 @@
 		 5/1 ~ 5/7
 	</td>
 	<td colspan="9" align="center">
-		 [1장]<br>
-		 09. 배열 내장함수 - 10. 프로토타입과 클래스
+		 [섹션 9] 객체<br>
+		 [섹션 10] 모듈
 	</td>
 </tr>
 <tr>
@@ -289,7 +296,7 @@
 		추후 공지 예정
 	</td>
 	<td colspan=4 align="center">
-		C
+		JS
 	</td>
 </tr>
 <tr>
@@ -329,8 +336,8 @@
 		 5/8 ~ 5/14
 	</td>
 	<td colspan="9" align="center">
-		 [2장]<br>
-		 01. 삼항연산자 - 02. Truthy and Falsy
+		 [섹션 11] UI 와 API 그리고 문서보는 법<br>
+		 [섹션 12] Javascript와 정규표현식
 	</td>
 </tr>
 <tr>
@@ -341,7 +348,7 @@
 		추후 공지 예정
 	</td>
 	<td colspan=4 align="center">
-		C
+		JS
 	</td>
 </tr>
 <tr>
@@ -381,8 +388,8 @@
 		 5/15 ~ 5/21
 	</td>
 	<td colspan="9" align="center">
-		 [2장]<br>
-		 03. 단축 평가 논리 계산법 - 04. 함수의 기본 파라미터
+		 [섹션 13] 유효범위<br>
+		 [섹션 14] 값으로서의 함수와 콜백
 	</td>
 </tr>
 <tr>
@@ -393,7 +400,7 @@
 		추후 공지 예정
 	</td>
 	<td colspan=4 align="center">
-		C
+		JS
 	</td>
 </tr>
 <tr>
@@ -433,8 +440,8 @@
 		 5/22 ~ 5/28
 	</td>
 	<td colspan="9" align="center">
-		 [2장]<br>
-		 05. 조건문 더 스마트하게 쓰기 - 06. 비구조화 할당 문법
+		 [섹션 15] 클로저<br>
+		 [섹션 16] arguments
 	</td>
 </tr>
 <tr>
@@ -445,7 +452,7 @@
 		추후 공지 예정
 	</td>
 	<td colspan=4 align="center">
-		C
+		JS
 	</td>
 </tr>
 <tr>
@@ -485,8 +492,8 @@
 		 5/29 ~ 6/4
 	</td>
 	<td colspan="9" align="center">
-		 [2장]<br>
-		 07. spread 와 rest 문법 - 08. scope의 이해
+		 [섹션 17] 함수의 호출<br>
+		 [섹션 18] 객체지향 프로그래밍 소개
 	</td>
 </tr>
 <tr>
@@ -497,7 +504,7 @@
 		추후 공지 예정
 	</td>
 	<td colspan=4 align="center">
-		C
+		JS
 	</td>
 </tr>
 <tr>
@@ -545,8 +552,8 @@
 		 6/19 ~ 6/25
 	</td>
 	<td colspan="9" align="center">
-		 [3장]<br>
-		 01. Promise - 02. async/await
+		 [섹션 19] 생성자와 new<br>
+		 [섹션 20] 전역객체
 	</td>
 </tr>
 <tr>
@@ -557,7 +564,59 @@
 		추후 공지 예정
 	</td>
 	<td colspan=4 align="center">
-		C
+		JS
+	</td>
+</tr>
+<tr>
+	<td colspan=2 align="center">
+		성취도
+	</td>
+	<td align="center">
+		🤍 해빈
+	</td>
+	<td align="center">
+		🤍 은찬
+	</td>
+	<td align="center">
+		💗 주현
+	</td>
+	<td align="center">
+		💗 재우
+	</td>
+	<td align="center">
+		💗 태용
+	</td>
+	<td align="center">
+		💗 현호
+	</td>
+	<td align="center">
+		🤍 현정
+	</td>
+</tr>
+<tr>
+	<td colspan=11>
+	</td>
+</tr>
+<tr>
+	<td rowspan="3" colspan="2" align="center">
+		<b>WEEK 10</b>
+		<br>
+		 6/26 ~ 7/2
+	</td>
+	<td colspan="9" align="center">
+		 [섹션 21] this<br>
+		 [섹션 22] 상속
+	</td>
+</tr>
+<tr>
+	<td colspan=2 align="center">
+		과제
+	</td>
+	<td colspan=4 align="center">
+		추후 공지 예정
+	</td>
+	<td colspan=4 align="center">
+		JS
 	</td>
 </tr>
 <tr>
@@ -623,34 +682,54 @@
 	</tr>
 	<tr>
 		<td align="center">
-			<img src=https://avatars.githubusercontent.com/u/51479381?v=4"/>
+			<img src=https://avatars.githubusercontent.com/u/113500798?v=4"/>
 		</td>
 		<td align="center">
-			<img src=https://avatars.githubusercontent.com/u/51479381?v=4"/>
+			<img src=https://avatars.githubusercontent.com/u/76578919?v=4"/>
 		</td>
 		<td align="center">
-			<img src=https://avatars.githubusercontent.com/u/51479381?v=4"/>
-		</td>
-		<td align="center">
-			<img src=https://avatars.githubusercontent.com/u/51479381?v=4"/>
+			<img src=https://avatars.githubusercontent.com/u/111693889?v=4"/>
 		</td>
 	</tr>
 	<tr>
 		<td align="center">
-			스터디원 1
+			이태용
 		</td>
 		<td align="center">
-			스터디원 2
+			김형호
 		</td>
 		<td align="center">
-			스터디원 3
-		</td>
-		<td align="center">
-			스터디원 4
+			남여경
 		</td>
 	</tr>
 	<tr>
-		<td colspan=4>
+		<td colspan=3>
+		</td>
+	</tr>
+	<tr>
+		<td align="center">
+			<img src=https://avatars.githubusercontent.com/u/102224840?v=4"/>
+		</td>
+		<td align="center">
+			<img src=https://avatars.githubusercontent.com/u/101418352?v=4"/>
+		</td>
+		<td align="center">
+			<img src=https://avatars.githubusercontent.com/u/124027140?v=4"/>
+		</td>
+	</tr>
+	<tr>
+		<td align="center">
+			임건우
+		</td>
+		<td align="center">
+			최영우
+		</td>
+		<td align="center">
+			홍서영
+		</td>
+	</tr>
+	<tr>
+		<td colspan=3>
 		</td>
 	</tr>
 </table>
