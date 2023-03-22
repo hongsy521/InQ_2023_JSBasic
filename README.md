@@ -680,7 +680,9 @@
 		<td colspan=2>
 		</td>
 	</tr>
-	<tr>
+</table>
+<table>
+<tr>
 		<td align="center">
 			<img src=https://avatars.githubusercontent.com/u/113500798?v=4"/>
 		</td>
