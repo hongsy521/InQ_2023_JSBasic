@@ -40,9 +40,9 @@
 
 ## 👽️ 사용 강의
 
-- 생활코딩 - 자바스크립트(JavaScript) 기본
+![image](https://user-images.githubusercontent.com/53262430/226933359-a9fac85d-a514-46c4-8b0e-a8fec8a1706f.png)
 
-  - https://www.inflearn.com/course/%EC%A7%80%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%96%B8%EC%96%B4-%EA%B8%B0%EB%B3%B8#curriculum
+- <a href="https://www.inflearn.com/course/%EC%A7%80%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%96%B8%EC%96%B4-%EA%B8%B0%EB%B3%B8#curriculum">생활코딩 - 자바스크립트(JavaScript) 기본</a>
 
 - 해당 강의를 사용하여 수업을 진행 할 예정이니, 정해진 주차에 대해서 학습해주시길 바랍니다!
 
