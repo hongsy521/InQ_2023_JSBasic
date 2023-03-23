@@ -603,10 +603,10 @@
 <table align="center">
 <tr>
 	<td colspan=2 align="center">
-		<a href="https://github.com/SWARVY"><img src="https://readme-typing-svg.herokuapp.com?font=Rubik+80s+Fade&color=ffffFF&size=30&center=true&vCenter=true&width=500&height=35&lines=TeamMaster&duration=1&pause=1000" style="vertical-align:top" width=100%>
+		<a href="https://github.com/SWARVY"><img src="https://readme-typing-svg.herokuapp.com?font=Rubik+80s+Fade&color=2F2F2F&size=30&center=true&vCenter=true&width=500&height=35&lines=TeamMaster&duration=1&pause=1000" style="vertical-align:top" width=100%>
 	</td>
 	<td colspan=2 align="center">
-		<a href="https://github.com/euna0104"><img src="https://readme-typing-svg.herokuapp.com?font=Rubik+80s+Fade&color=ffffFF&size=30&center=true&vCenter=true&width=500&height=35&lines=Mentor+&duration=1&pause=1000" style="vertical-align:top" width=100%>
+		<a href="https://github.com/euna0104"><img src="https://readme-typing-svg.herokuapp.com?font=Rubik+80s+Fade&color=2F2F2F&size=30&center=true&vCenter=true&width=500&height=35&lines=Mentor+&duration=1&pause=1000" style="vertical-align:top" width=100%>
 	</td>
 </tr>
 <tr>
