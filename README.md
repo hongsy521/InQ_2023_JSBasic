@@ -1,4 +1,4 @@
-<p align="center"><img src="https://user-images.githubusercontent.com/58041212/226146342-4dd195a0-a09b-4b80-b75a-661811ed31fb.jpg"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/58041212/227104221-04fc0dc2-610e-454c-b9d4-0b0c3ece41f3.jpg"></p>
 
 <br>
 
@@ -24,11 +24,11 @@
 
 - PR 컨벤션 : `[1주차] 김인큐 과제 제출"`
 
-- 파일 이름 컨벤션 : `Week1_9876.js`
+- 파일 이름 컨벤션 : `Week1_xxxx.js`
 
-  - 주차\_문제번호.js 양식을 반드시 지켜주세요
+  - 주차\_과제이름.js 양식을 반드시 지켜주세요
 
-  - 문제번호는 백준(BOJ) 사이트 주소창에서 확인할 수 있습니다.
+  - 과제는 그때그때 전달됩니다.
 
 - gitignore 초기 설정
   - .gitignore
@@ -40,9 +40,13 @@
 
 ## 👽️ 사용 강의
 
-- 생활코딩 - 자바스크립트(JavaScript) 기본
+<div align="center">
 
-  - https://www.inflearn.com/course/%EC%A7%80%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%96%B8%EC%96%B4-%EA%B8%B0%EB%B3%B8#curriculum
+![image](https://user-images.githubusercontent.com/53262430/226933359-a9fac85d-a514-46c4-8b0e-a8fec8a1706f.png)
+
+</div>
+
+- <a href="https://www.inflearn.com/course/%EC%A7%80%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%96%B8%EC%96%B4-%EA%B8%B0%EB%B3%B8#curriculum">생활코딩 - 자바스크립트(JavaScript) 기본</a>
 
 - 해당 강의를 사용하여 수업을 진행 할 예정이니, 정해진 주차에 대해서 학습해주시길 바랍니다!
 
@@ -59,7 +63,15 @@
 ## 💡 여담
 
 - 적극적으로 참여하실수록 알려드릴 수 있는게 더 많으니, 적극적으로 참여해주세요!
-- 궁금한 점은 편하게 팀장한테 문의주시기 바랍니다!
+- 문의 사항/개선점/특이사항은 팀장한테 언제든지 카카오톡으로 문의 주시기 바랍니다!
+- github의 Code Review 기능을 이용해, merge 전에 다른 스터디원의 코드를 자유롭게 리뷰해보세요!
+- **`🤍 진행중` / `❤️‍🩹 일부 완료` / `💗 제출 완료` / `🖤 미제출`**
+- 스터디 원의 학습 현황을 주차 별로 이모지를 활용해 README에 업로드 합니다.
+- **`💗 제출 완료`** 로 가득 채울 수 있도록, 스터디원 여러분들의 열띤 참여를 기대합니다 :)
+- 사유 없는 **`🖤 미제출`**, **`❤️‍🩹 일부 완료` 총합 3회 누적 시 해당 스터디에서 제적**됩니다.
+- 스터디 미참여 제적의 경우, 차후 동아리 활동에서 제한/제명 조치 될 수 있습니다.
+- **`❤️‍🩹 일부 완료`** 의 경우, 제출 기한 D+7 까지 완료하여 Push하시면 **`💗 제출 완료`** 반영합니다.
+- 스터디 참여가 어렵거나, 주차 별 학습 진행이 어려운 사유가 발생 할 경우, 팀장에게 문의 바랍니다.
 
 <br>
 
@@ -72,7 +84,7 @@
 		<br>
 		 3/27 ~ 4/1
 	</td>
-	<td colspan="9" align="center">
+	<td colspan="8" align="center">
 		 [섹션 1] Javascript 기본<br>
 		 [섹션 2] 숫자와 문자
 	</td>
@@ -81,41 +93,36 @@
 	<td colspan=2 align="center">
 		과제
 	</td>
-	<td colspan=4 align="center">
+	<td colspan=6 align="center">
 		<a href="https://www.acmicpc.net/problem/2557"/>Hello World
 	</td>
-	<td colspan=4 align="center">
-		I/O
-	</td>
+
 </tr>
 <tr>
 	<td colspan=2 align="center">
 		성취도
 	</td>
-	<td align="center">
-		🤍 해빈
+		<td align="center">
+		🤍 태용
 	</td>
 	<td align="center">
-		🤍 은찬
+		🤍 형호
 	</td>
 	<td align="center">
-		💗 주현
+		🤍 여경
 	</td>
 	<td align="center">
-		💗 재우
+		🤍 건우
 	</td>
 	<td align="center">
-		💗 태용
+		🤍 원재
 	</td>
 	<td align="center">
-		💗 현호
-	</td>
-	<td align="center">
-		🤍 현정
+		🤍 서영
 	</td>
 </tr>
 <tr>
-	<td colspan="9" align="center">
+	<td colspan="8" align="center">
 		 [섹션 3] 변수<br>
 		 [섹션 4] 비교
 	</td>
@@ -124,41 +131,35 @@
 	<td colspan=2 align="center">
 		과제
 	</td>
-	<td colspan=4 align="center">
-		추후 공지 예정
-	</td>
-	<td colspan=4 align="center">
-		JS
+	<td colspan=6 align="center">
+        추후 공지 예정
 	</td>
 </tr>
 <tr>
 	<td colspan=2 align="center">
 		성취도
 	</td>
-	<td align="center">
-		🤍 해빈
+		<td align="center">
+		🤍 태용
 	</td>
 	<td align="center">
-		🤍 은찬
+		🤍 형호
 	</td>
 	<td align="center">
-		💗 주현
+		🤍 여경
 	</td>
 	<td align="center">
-		💗 재우
+		🤍 건우
 	</td>
 	<td align="center">
-		💗 태용
+		🤍 원재
 	</td>
 	<td align="center">
-		💗 현호
-	</td>
-	<td align="center">
-		🤍 현정
+		🤍 서영
 	</td>
 </tr>
 <tr>
-	<td colspan=11>
+	<td colspan=10>
 	</td>
 </tr>
 <tr>
@@ -167,7 +168,7 @@
 		<br>
 		 4/3 ~ 4/9
 	</td>
-	<td colspan="9" align="center">
+	<td colspan="8" align="center">
 		 [섹션 5] 조건문<br>
 		 [섹션 6] 반복문
 	</td>
@@ -176,45 +177,39 @@
 	<td colspan=2 align="center">
 		과제
 	</td>
-	<td colspan=4 align="center">
-		추후 공지 예정
-	</td>
-	<td colspan=4 align="center">
-		JS
+	<td colspan=6 align="center">
+        추후 공지 예정
 	</td>
 </tr>
 <tr>
 	<td colspan=2 align="center">
 		성취도
 	</td>
-	<td align="center">
-		🤍 해빈
+		<td align="center">
+		🤍 태용
 	</td>
 	<td align="center">
-		🤍 은찬
+		🤍 형호
 	</td>
 	<td align="center">
-		💗 주현
+		🤍 여경
 	</td>
 	<td align="center">
-		💗 재우
+		🤍 건우
 	</td>
 	<td align="center">
-		💗 태용
+		🤍 원재
 	</td>
 	<td align="center">
-		💗 현호
-	</td>
-	<td align="center">
-		🤍 현정
+		🤍 서영
 	</td>
 </tr>
 <tr>
-	<td colspan=11>
+	<td colspan=10>
 	</td>
 </tr>
 <tr>
-	<td colspan="11" align="center">
+	<td colspan="10" align="center">
 		<b>< 중간고사 대비기간></b>
 		<br>
 		 2주 동안 스터디도 쉬어갑니다 👋🏻
@@ -222,7 +217,7 @@
 	<br/>
 </tr>
 <tr>
-	<td colspan=11>
+	<td colspan=10>
 	</td>
 </tr>
 <tr>
@@ -231,7 +226,7 @@
 		<br>
 		 4/24 ~ 4/30
 	</td>
-	<td colspan="9" align="center">
+	<td colspan="8" align="center">
 		 [섹션 7] 함수<br>
 		 [섹션 8] 배열
 	</td>
@@ -240,41 +235,35 @@
 	<td colspan=2 align="center">
 		과제
 	</td>
-	<td colspan=4 align="center">
-		추후 공지 예정
-	</td>
-	<td colspan=4 align="center">
-		JS
+	<td colspan=6 align="center">
+        추후 공지 예정
 	</td>
 </tr>
 <tr>
 	<td colspan=2 align="center">
 		성취도
 	</td>
-	<td align="center">
-		🤍 해빈
+		<td align="center">
+		🤍 태용
 	</td>
 	<td align="center">
-		🤍 은찬
+		🤍 형호
 	</td>
 	<td align="center">
-		💗 주현
+		🤍 여경
 	</td>
 	<td align="center">
-		💗 재우
+		🤍 건우
 	</td>
 	<td align="center">
-		💗 태용
+		🤍 원재
 	</td>
 	<td align="center">
-		💗 현호
-	</td>
-	<td align="center">
-		🤍 현정
+		🤍 서영
 	</td>
 </tr>
 <tr>
-	<td colspan=11>
+	<td colspan=10>
 	</td>
 </tr>
 <tr>
@@ -283,7 +272,7 @@
 		<br>
 		 5/1 ~ 5/7
 	</td>
-	<td colspan="9" align="center">
+	<td colspan="8" align="center">
 		 [섹션 9] 객체<br>
 		 [섹션 10] 모듈
 	</td>
@@ -292,41 +281,35 @@
 	<td colspan=2 align="center">
 		과제
 	</td>
-	<td colspan=4 align="center">
-		추후 공지 예정
-	</td>
-	<td colspan=4 align="center">
-		JS
+	<td colspan=6 align="center">
+        추후 공지 예정
 	</td>
 </tr>
 <tr>
 	<td colspan=2 align="center">
 		성취도
 	</td>
-	<td align="center">
-		🤍 해빈
+		<td align="center">
+		🤍 태용
 	</td>
 	<td align="center">
-		🤍 은찬
+		🤍 형호
 	</td>
 	<td align="center">
-		💗 주현
+		🤍 여경
 	</td>
 	<td align="center">
-		💗 재우
+		🤍 건우
 	</td>
 	<td align="center">
-		💗 태용
+		🤍 원재
 	</td>
 	<td align="center">
-		💗 현호
-	</td>
-	<td align="center">
-		🤍 현정
+		🤍 서영
 	</td>
 </tr>
 <tr>
-	<td colspan=11>
+	<td colspan=10>
 	</td>
 </tr>
 <tr>
@@ -335,7 +318,7 @@
 		<br>
 		 5/8 ~ 5/14
 	</td>
-	<td colspan="9" align="center">
+	<td colspan="8" align="center">
 		 [섹션 11] UI 와 API 그리고 문서보는 법<br>
 		 [섹션 12] Javascript와 정규표현식
 	</td>
@@ -344,41 +327,35 @@
 	<td colspan=2 align="center">
 		과제
 	</td>
-	<td colspan=4 align="center">
-		추후 공지 예정
-	</td>
-	<td colspan=4 align="center">
-		JS
+	<td colspan=6 align="center">
+        추후 공지 예정
 	</td>
 </tr>
 <tr>
 	<td colspan=2 align="center">
 		성취도
 	</td>
-	<td align="center">
-		🤍 해빈
+		<td align="center">
+		🤍 태용
 	</td>
 	<td align="center">
-		🤍 은찬
+		🤍 형호
 	</td>
 	<td align="center">
-		💗 주현
+		🤍 여경
 	</td>
 	<td align="center">
-		💗 재우
+		🤍 건우
 	</td>
 	<td align="center">
-		💗 태용
+		🤍 원재
 	</td>
 	<td align="center">
-		💗 현호
-	</td>
-	<td align="center">
-		🤍 현정
+		🤍 서영
 	</td>
 </tr>
 <tr>
-	<td colspan=11>
+	<td colspan=10>
 	</td>
 </tr>
 <tr>
@@ -387,7 +364,7 @@
 		<br>
 		 5/15 ~ 5/21
 	</td>
-	<td colspan="9" align="center">
+	<td colspan="8" align="center">
 		 [섹션 13] 유효범위<br>
 		 [섹션 14] 값으로서의 함수와 콜백
 	</td>
@@ -396,11 +373,8 @@
 	<td colspan=2 align="center">
 		과제
 	</td>
-	<td colspan=4 align="center">
-		추후 공지 예정
-	</td>
-	<td colspan=4 align="center">
-		JS
+	<td colspan=6 align="center">
+        추후 공지 예정
 	</td>
 </tr>
 <tr>
@@ -408,29 +382,26 @@
 		성취도
 	</td>
 	<td align="center">
-		🤍 해빈
+		🤍 태용
 	</td>
 	<td align="center">
-		🤍 은찬
+		🤍 형호
 	</td>
 	<td align="center">
-		💗 주현
+		🤍 여경
 	</td>
 	<td align="center">
-		💗 재우
+		🤍 건우
 	</td>
 	<td align="center">
-		💗 태용
+		🤍 원재
 	</td>
 	<td align="center">
-		💗 현호
-	</td>
-	<td align="center">
-		🤍 현정
+		🤍 서영
 	</td>
 </tr>
 <tr>
-	<td colspan=11>
+	<td colspan=10>
 	</td>
 </tr>
 <tr>
@@ -439,7 +410,7 @@
 		<br>
 		 5/22 ~ 5/28
 	</td>
-	<td colspan="9" align="center">
+	<td colspan="8" align="center">
 		 [섹션 15] 클로저<br>
 		 [섹션 16] arguments
 	</td>
@@ -448,11 +419,8 @@
 	<td colspan=2 align="center">
 		과제
 	</td>
-	<td colspan=4 align="center">
-		추후 공지 예정
-	</td>
-	<td colspan=4 align="center">
-		JS
+	<td colspan=6 align="center">
+        추후 공지 예정
 	</td>
 </tr>
 <tr>
@@ -460,29 +428,26 @@
 		성취도
 	</td>
 	<td align="center">
-		🤍 해빈
+		🤍 태용
 	</td>
 	<td align="center">
-		🤍 은찬
+		🤍 형호
 	</td>
 	<td align="center">
-		💗 주현
+		🤍 여경
 	</td>
 	<td align="center">
-		💗 재우
+		🤍 건우
 	</td>
 	<td align="center">
-		💗 태용
+		🤍 원재
 	</td>
 	<td align="center">
-		💗 현호
-	</td>
-	<td align="center">
-		🤍 현정
+		🤍 서영
 	</td>
 </tr>
 <tr>
-	<td colspan=11>
+	<td colspan=10>
 	</td>
 </tr>
 <tr>
@@ -491,7 +456,7 @@
 		<br>
 		 5/29 ~ 6/4
 	</td>
-	<td colspan="9" align="center">
+	<td colspan="8" align="center">
 		 [섹션 17] 함수의 호출<br>
 		 [섹션 18] 객체지향 프로그래밍 소개
 	</td>
@@ -500,11 +465,8 @@
 	<td colspan=2 align="center">
 		과제
 	</td>
-	<td colspan=4 align="center">
-		추후 공지 예정
-	</td>
-	<td colspan=4 align="center">
-		JS
+	<td colspan=6 align="center">
+        추후 공지 예정
 	</td>
 </tr>
 <tr>
@@ -512,29 +474,26 @@
 		성취도
 	</td>
 	<td align="center">
-		🤍 해빈
+		🤍 태용
 	</td>
 	<td align="center">
-		🤍 은찬
+		🤍 형호
 	</td>
 	<td align="center">
-		💗 주현
+		🤍 여경
 	</td>
 	<td align="center">
-		💗 재우
+		🤍 건우
 	</td>
 	<td align="center">
-		💗 태용
+		🤍 원재
 	</td>
 	<td align="center">
-		💗 현호
-	</td>
-	<td align="center">
-		🤍 현정
+		🤍 서영
 	</td>
 </tr>
 <tr>
-	<td colspan="11" align="center">
+	<td colspan="10" align="center">
 		<b>< 기말고사 대비기간></b>
 		<br>
 		 2주 동안 스터디도 쉬어갑니다 👋🏻
@@ -542,7 +501,7 @@
 	<br/>
 </tr>
 <tr>
-	<td colspan=11>
+	<td colspan=10>
 	</td>
 </tr>
 <tr>
@@ -551,7 +510,7 @@
 		<br>
 		 6/19 ~ 6/25
 	</td>
-	<td colspan="9" align="center">
+	<td colspan="8" align="center">
 		 [섹션 19] 생성자와 new<br>
 		 [섹션 20] 전역객체
 	</td>
@@ -560,11 +519,8 @@
 	<td colspan=2 align="center">
 		과제
 	</td>
-	<td colspan=4 align="center">
-		추후 공지 예정
-	</td>
-	<td colspan=4 align="center">
-		JS
+	<td colspan=6 align="center">
+        추후 공지 예정
 	</td>
 </tr>
 <tr>
@@ -572,29 +528,26 @@
 		성취도
 	</td>
 	<td align="center">
-		🤍 해빈
+		🤍 태용
 	</td>
 	<td align="center">
-		🤍 은찬
+		🤍 형호
 	</td>
 	<td align="center">
-		💗 주현
+		🤍 여경
 	</td>
 	<td align="center">
-		💗 재우
+		🤍 건우
 	</td>
 	<td align="center">
-		💗 태용
+		🤍 원재
 	</td>
 	<td align="center">
-		💗 현호
-	</td>
-	<td align="center">
-		🤍 현정
+		🤍 서영
 	</td>
 </tr>
 <tr>
-	<td colspan=11>
+	<td colspan=10>
 	</td>
 </tr>
 <tr>
@@ -603,7 +556,7 @@
 		<br>
 		 6/26 ~ 7/2
 	</td>
-	<td colspan="9" align="center">
+	<td colspan="8" align="center">
 		 [섹션 21] this<br>
 		 [섹션 22] 상속
 	</td>
@@ -612,11 +565,8 @@
 	<td colspan=2 align="center">
 		과제
 	</td>
-	<td colspan=4 align="center">
+	<td colspan=6 align="center">
 		추후 공지 예정
-	</td>
-	<td colspan=4 align="center">
-		JS
 	</td>
 </tr>
 <tr>
@@ -624,29 +574,26 @@
 		성취도
 	</td>
 	<td align="center">
-		🤍 해빈
+		🤍 태용
 	</td>
 	<td align="center">
-		🤍 은찬
+		🤍 형호
 	</td>
 	<td align="center">
-		💗 주현
+		🤍 여경
 	</td>
 	<td align="center">
-		💗 재우
+		🤍 건우
 	</td>
 	<td align="center">
-		💗 태용
+		🤍 원재
 	</td>
 	<td align="center">
-		💗 현호
-	</td>
-	<td align="center">
-		🤍 현정
+		🤍 서영
 	</td>
 </tr>
 <tr>
-	<td colspan=11>
+	<td colspan=10>
 	</td>
 </tr>
 </table>
@@ -655,15 +602,15 @@
 <table align="center">
 <tr>
 	<td colspan=2 align="center">
-		<a href="https://github.com/h-beeen"><img src="https://readme-typing-svg.herokuapp.com?font=Rubik+80s+Fade&color=ffffFF&size=30&center=true&vCenter=true&width=500&height=35&lines=TeamMaster&duration=1&pause=1000" style="vertical-align:top" width=100%>
+		<a href="https://github.com/SWARVY"><img src="https://readme-typing-svg.herokuapp.com?font=Rubik+80s+Fade&color=2F2F2F&size=30&center=true&vCenter=true&width=500&height=35&lines=TeamMaster&duration=1&pause=1000" style="vertical-align:top" width=100%>
 	</td>
 	<td colspan=2 align="center">
-		<a href="https://github.com/SWARVY"><img src="https://readme-typing-svg.herokuapp.com?font=Rubik+80s+Fade&color=ffffFF&size=30&center=true&vCenter=true&width=500&height=35&lines=Mentor+&duration=1&pause=1000" style="vertical-align:top" width=100%>
+		<a href="https://github.com/euna0104"><img src="https://readme-typing-svg.herokuapp.com?font=Rubik+80s+Fade&color=2F2F2F&size=30&center=true&vCenter=true&width=500&height=35&lines=Mentor+&duration=1&pause=1000" style="vertical-align:top" width=100%>
 	</td>
 </tr>
 <tr>
 	<td align="center">
-		<a href="https://github.com/h-beeen"><img src="https://avatars.githubusercontent.com/u/53262430?v=4" style="vertical-align:top" alt=""/>
+		<a href="https://github.com/SWARVY"><img src="https://avatars.githubusercontent.com/u/53262430?v=4" style="vertical-align:top" alt=""/>
 		<td width=25% align=center>
 			신현호(19) / FE</br>42Seoul Cadet</br></br>
 		</td>
@@ -671,7 +618,7 @@
 			<a href="https://github.com/euna0104"><img src="https://avatars.githubusercontent.com/u/93309561?v=4" style="vertical-align:top" alt=""/>
 		</td>
 		<td width=25% align=center>
-			고은아(20) / BE</br>Backend Developer</br></br>
+			고은아(20) / BE</br>Node.js Developer</br></br>
 		</td>
 	</tr>
 	<tr>
@@ -684,13 +631,13 @@
 <table>
 <tr>
 		<td align="center">
-			<img src=https://avatars.githubusercontent.com/u/113500798?v=4"/>
+			<a href="https://github.com/2EETY"><img src=https://avatars.githubusercontent.com/u/113500798?v=4"/>
 		</td>
 		<td align="center">
-			<img src=https://avatars.githubusercontent.com/u/76578919?v=4"/>
+			<a href="https://github.com/heung115"><img src=https://avatars.githubusercontent.com/u/76578919?v=4"/>
 		</td>
 		<td align="center">
-			<img src=https://avatars.githubusercontent.com/u/111693889?v=4"/>
+			<a href="https://github.com/wpolice"><img src=https://avatars.githubusercontent.com/u/111693889?v=4"/>
 		</td>
 	</tr>
 	<tr>
@@ -710,13 +657,13 @@
 	</tr>
 	<tr>
 		<td align="center">
-			<img src=https://avatars.githubusercontent.com/u/102224840?v=4"/>
+			<a href="https://github.com/limbaba1120"><img src=https://avatars.githubusercontent.com/u/102224840?v=4"/>
 		</td>
 		<td align="center">
-			<img src=https://avatars.githubusercontent.com/u/101418352?v=4"/>
+			<a href="https://github.com/woneze"><img src=https://avatars.githubusercontent.com/u/96437448?v=4/>
 		</td>
 		<td align="center">
-			<img src=https://avatars.githubusercontent.com/u/124027140?v=4"/>
+			<a href="https://github.com/hongsy521"><img src=https://avatars.githubusercontent.com/u/124027140?v=4"/>
 		</td>
 	</tr>
 	<tr>
@@ -724,7 +671,7 @@
 			임건우
 		</td>
 		<td align="center">
-			최영우
+			이원재
 		</td>
 		<td align="center">
 			홍서영
