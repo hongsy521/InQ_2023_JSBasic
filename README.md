@@ -112,7 +112,7 @@
 		💗 여경
 	</td>
 	<td align="center">
-		🩹 건우
+		 건우
 	</td>
 	<td align="center">
 		💗 원재
