@@ -132,7 +132,7 @@
 		과제
 	</td>
 	<td colspan=6 align="center">
-        추후 공지 예정
+        --
 	</td>
 </tr>
 <tr>
