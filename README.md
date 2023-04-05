@@ -140,22 +140,22 @@
 		성취도
 	</td>
 		<td align="center">
-		🤍 태용
+		💗 태용
 	</td>
 	<td align="center">
-		🤍 형호
+		💗 형호
 	</td>
 	<td align="center">
-		🤍 여경
+		💗 여경
 	</td>
 	<td align="center">
-		🤍 건우
+		💗 건우
 	</td>
 	<td align="center">
-		🤍 원재
+		💗 원재
 	</td>
 	<td align="center">
-		🤍 서영
+		💗 서영
 	</td>
 </tr>
 <tr>
@@ -178,7 +178,9 @@
 		과제
 	</td>
 	<td colspan=6 align="center">
-        추후 공지 예정
+		<a href="https://school.programmers.co.kr/learn/courses/30/lessons/120822">문자열 뒤집기</a>
+		 / 
+		<a href="https://school.programmers.co.kr/learn/courses/30/lessons/120583"/>중복된 숫자 개수</a>
 	</td>
 </tr>
 <tr>
